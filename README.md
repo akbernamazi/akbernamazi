@@ -40,8 +40,8 @@ def getCity():
 
 def Ambitions():
 	EducateEveryone()
-	CreateSkyNet()
-	FinishMyNovel()
+	SupportCommunity()
+	WorldTour()
 	# Assume 10 more awesome ambitions here  ;)
 
 ```
