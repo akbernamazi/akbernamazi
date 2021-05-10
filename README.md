@@ -48,7 +48,7 @@ def Ambitions():
 
 ## Current Works
 
-- I'm currently working with 🔭 building **Uton Energia** an Electronic Vehicle Startup and working up on polishing my skills 🌱 in **Competitive Programming**.
+- I'm currently Interning at **Microsec Singapore** and working up on polishing my skills 🌱 in **Competitive Programming**.
 - Also, I have done couple of internships at growing Startups. Don't forget to check my work. **[Repositories](https://github.com/akbernamazi?tab=repositories)**
 
 ## Other Stuff
