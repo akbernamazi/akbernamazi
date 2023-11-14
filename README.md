@@ -2,11 +2,11 @@
 
 <img src = 'https://github.com/akbernamazi/akbernamazi/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-akbernamazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akber-namazi)](https://www.linkedin.com/in/akber-namazi/) [![Gmail Badge](https://img.shields.io/badge/-akbernamazi1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbernamazi1@gmail.com)](mailto:akbernamazi1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-akbernamazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akber-namazi)](https://www.linkedin.com/in/akber-namazi/) [![Gmail Badge](https://img.shields.io/badge/-akbernamazi1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirzaakbern@gmail.com)](mailto:mirzaakbern@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbernamazi" alt="akbernamazi" /> </p>
 
-Welcome to my humble abode in the Digital World.. There are 2 types of people in the world. Those who get Binary and those who don't.
+Welcome to my humble abode in the Digital World. There are 2 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I Love
 
